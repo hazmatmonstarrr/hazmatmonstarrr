@@ -11,9 +11,9 @@ Hi there! I'm Mayumi Shinozuka, a passionate **Cybersecurity major** with a **Co
 Here are a few projects I have been working on: 
 
 Feel free to reach me here:
-LinkedIn: 
-Instagram:
-Blog: 
+LinkedIn: https://www.linkedin.com/in/mayumi-shinozuka-5214b319b/
+Instagram: @mayumishinozuka
+Blog: @hazmatmonstar
 
 <!--
 **hazmatmonstarrr/hazmatmonstarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
