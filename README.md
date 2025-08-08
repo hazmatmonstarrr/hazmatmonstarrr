@@ -4,7 +4,7 @@
 
 👋 Hey! I'm Mayumi Shinozuka
 
-I'm a passionate **Cybersecurity** and **Business Economics major** with a **Computer Science minor**. I'm on a mission to build a solid foundation in cybersecurity, aspiring to be a SOC analyst.
+I'm a passionate **Cybersecurity** and **Business Economics major** with a **Computer Science minor**. I'm on a mission to build a solid foundation in cybersecurity, create more projects, and share them with everyone!
 
 🔐 About Me
 
