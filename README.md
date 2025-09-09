@@ -4,13 +4,13 @@
 
 👋 Hey! I'm Mayumi Shinozuka
 
-I'm a passionate **Cybersecurity** and **Business Economics major** with a **Computer Science minor**. I'm on a mission to build a solid foundation in cybersecurity, create more projects, and share them with everyone!
+I'm a passionate **Cybersecurity** and **Business Economics major** with a **Computer Science minor**. I'm aiming to build a solid foundation in cybersecurity, create more projects, and share them with everyone!
 
 🔐 About Me
 
 - 🎓 Cybersecurity Major | Business Economics Major | Computer Science Minor 
 - 🧠 Constantly learning and exploring new areas in security and tech  
-- 📍 Looking for internships or opportunities in cybersecurity, especially in SOC or blue team environments, cloud security or purple team environments
+- 📍 Looking for internships or opportunities in cybersecurity, especially in SOC or blue team environments, cloud security, or purple team environments
 
 🙈 Fun facts
 
