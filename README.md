@@ -4,7 +4,7 @@
 
 👋 Hey! I'm Mayumi Shinozuka
 
-I'm a passionate **Cybersecurity** and **Business Economics major** with a **Computer Science minor**. I'm aiming to build a solid foundation in cybersecurity, create more projects, and share them with everyone! I love a good challenge and finding ways to solve them. 
+I'm a recent graduate with a **Cybersecurity-Risk Management** and **Business Economics major** and a **Computer Science minor**. I'm aiming to build a solid foundation in cybersecurity, create more projects, and share them with everyone! I love a good challenge and finding ways to solve them. 
 
 🔐 About Me
 
@@ -15,7 +15,6 @@ I'm a passionate **Cybersecurity** and **Business Economics major** with a **Com
 🙈 Fun facts
 
 - NCAA D2 Triathlete
-- Crochets and cross stitches
 - Makes/produces music 🎶
 
 
